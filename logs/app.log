@@ -1,0 +1,150 @@
+{"level":60,"time":1717043913010,"pid":460,"hostname":"PC224","msg":"Internal Server Error orderSuccess User Internal Server Error while sending an invoice"}
+{"level":60,"time":1717044044805,"pid":17448,"hostname":"PC224","msg":"Internal Server Error orderSuccess User while sending an invoice"}
+{"level":60,"time":1717044069000,"pid":17448,"hostname":"PC224","msg":"Internal Server Error Create User MongooseError: Operation `userModel.insertOne()` buffering timed out after 10000ms"}
+{"level":60,"time":1717047113453,"pid":18788,"hostname":"PC224","msg":"Internal Server Error orderSuccess User while sending an invoice"}
+{"level":30,"time":1717047676508,"pid":19540,"hostname":"PC224","msg":"Listing All Products"}
+{"level":40,"time":1717051237534,"pid":9024,"hostname":"PC224","msg":"Email or Username Is Already Exists."}
+{"level":40,"time":1717051241965,"pid":9024,"hostname":"PC224","msg":"Email or Username Is Already Exists."}
+{"level":30,"time":1717051247496,"pid":9024,"hostname":"PC224","msg":"User Registered Successfully."}
+{"level":30,"time":1717051262642,"pid":9024,"hostname":"PC224","msg":"User Login Successfully."}
+{"level":30,"time":1717051277401,"pid":9024,"hostname":"PC224","msg":"An email has been sent to your address with further instructions."}
+{"level":30,"time":1717051297500,"pid":9024,"hostname":"PC224","msg":"User Login Successfully."}
+{"level":30,"time":1717051350330,"pid":9024,"hostname":"PC224","msg":"Listing All Products"}
+{"level":30,"time":1717051398153,"pid":9024,"hostname":"PC224","msg":"Product removed from cart successfully."}
+{"level":30,"time":1717051411661,"pid":9024,"hostname":"PC224","msg":"Product removed from cart successfully."}
+{"level":30,"time":1717051416378,"pid":9024,"hostname":"PC224","msg":"Listing All Products"}
+{"level":40,"time":1717051433865,"pid":9024,"hostname":"PC224","msg":"Product Does not Exist in the cart."}
+{"level":40,"time":1717051436667,"pid":9024,"hostname":"PC224","msg":"Product Does not Exist in the cart."}
+{"level":30,"time":1717051442253,"pid":9024,"hostname":"PC224","msg":"Listing All Products"}
+{"level":30,"time":1717051449276,"pid":9024,"hostname":"PC224","msg":"Product removed from cart successfully."}
+{"level":30,"time":1717051454597,"pid":9024,"hostname":"PC224","msg":"Listing All Products"}
+{"level":30,"time":1717051536737,"pid":9024,"hostname":"PC224","msg":"Order Placed SuccessFully"}
+{"level":40,"time":1717053065993,"pid":8656,"hostname":"PC224","msg":"Email or Username Is Already Exists."}
+{"level":40,"time":1717053075001,"pid":8656,"hostname":"PC224","msg":"Email or Username Is Already Exists."}
+{"level":30,"time":1717053079469,"pid":8656,"hostname":"PC224","msg":"User Registered Successfully."}
+{"level":30,"time":1717053098624,"pid":8656,"hostname":"PC224","msg":"User Login Successfully."}
+{"level":30,"time":1717053104893,"pid":8656,"hostname":"PC224","msg":"An email has been sent to your address with further instructions."}
+{"level":40,"time":1717053126468,"pid":8656,"hostname":"PC224","msg":"Invalid email or password."}
+{"level":30,"time":1717053129202,"pid":8656,"hostname":"PC224","msg":"User Login Successfully."}
+{"level":30,"time":1717053156005,"pid":8656,"hostname":"PC224","msg":"Listing All Products"}
+{"level":30,"time":1717053164495,"pid":8656,"hostname":"PC224","msg":"Listing All Products"}
+{"level":40,"time":1717053189421,"pid":8656,"hostname":"PC224","msg":"Product Does not Exist in the cart."}
+{"level":30,"time":1717053199771,"pid":8656,"hostname":"PC224","msg":"Product removed from cart successfully."}
+{"level":60,"time":1717053206808,"pid":8656,"hostname":"PC224","msg":"Internal Server Error createPaymentLink User Internal Server Error"}
+{"level":60,"time":1717053212895,"pid":8656,"hostname":"PC224","msg":"Internal Server Error createPaymentLink User Internal Server Error"}
+{"level":60,"time":1717053267117,"pid":17788,"hostname":"PC224","msg":"Internal Server Error createPaymentLink User Internal Server Error"}
+{"level":60,"time":1717053286034,"pid":15680,"hostname":"PC224","msg":"Internal Server Error createPaymentLink User Error: Amount for an export transaction must be less than $30,000.00."}
+{"level":30,"time":1717053309329,"pid":15680,"hostname":"PC224","msg":"Product removed from cart successfully."}
+{"level":40,"time":1717053312337,"pid":15680,"hostname":"PC224","msg":"Cart not found"}
+{"level":30,"time":1717053317117,"pid":15680,"hostname":"PC224","msg":"Listing All Products"}
+{"level":30,"time":1717053371813,"pid":15680,"hostname":"PC224","msg":"Order Placed SuccessFully"}
+{"level":30,"time":1717053393294,"pid":15680,"hostname":"PC224","msg":"Listing All Products"}
+{"level":60,"time":1717067398269,"pid":12104,"hostname":"PC224","msg":"Internal Server Error createPaymentLink User TypeError: Cannot read properties of undefined (reading 'stripe')"}
+{"level":60,"time":1717067449780,"pid":19648,"hostname":"PC224","msg":"Internal Server Error createPaymentLink User TypeError: Cannot read properties of undefined (reading 'stripe')"}
+{"level":60,"time":1717067544477,"pid":21232,"hostname":"PC224","msg":"Internal Server Error createPaymentLink User TypeError: Cannot read properties of undefined (reading 'stripe')"}
+{"level":60,"time":1717067580880,"pid":8936,"hostname":"PC224","msg":"Internal Server Error createPaymentLink User TypeError: Cannot read properties of undefined (reading 'stripe')"}
+{"level":60,"time":1717067609572,"pid":20140,"hostname":"PC224","msg":"Internal Server Error createPaymentLink User TypeError: Cannot read properties of undefined (reading 'stripe')"}
+{"level":60,"time":1717067688258,"pid":5368,"hostname":"PC224","msg":"Internal Server Error createPaymentLink User TypeError: Cannot read properties of undefined (reading 'stripe')"}
+{"level":60,"time":1717067799087,"pid":8532,"hostname":"PC224","msg":"Internal Server Error createPaymentLink User Error: You did not provide an API key. You need to provide your API key in the Authorization header, using Bearer auth (e.g. 'Authorization: Bearer YOUR_SECRET_KEY'). See https://stripe.com/docs/api#authentication for details, or we can help at https://support.stripe.com/."}
+{"level":60,"time":1717069023655,"pid":19760,"hostname":"PC224","msg":"Internal Server Error createPaymentLink User TypeError: Cannot read properties of undefined (reading 'multiple')"}
+{"level":30,"time":1717069478489,"pid":5568,"hostname":"PC224","msg":"Listing All Products"}
+{"level":30,"time":1717069520687,"pid":5568,"hostname":"PC224","msg":"Order Placed SuccessFully"}
+{"level":30,"time":1717069579285,"pid":5568,"hostname":"PC224","msg":"Listing All Products"}
+{"level":30,"time":1717069591774,"pid":5568,"hostname":"PC224","msg":"Listing All Products"}
+{"level":60,"time":1717071183461,"pid":6528,"hostname":"PC224","msg":"Internal Server Error Create User ValidationError: hash: Path `hash` is required."}
+{"level":60,"time":1717071259522,"pid":22388,"hostname":"PC224","msg":"Internal Server Error Create User ValidationError: hash: Path `hash` is required."}
+{"level":30,"time":1717071347598,"pid":21724,"hostname":"PC224","msg":"User Registered Successfully."}
+{"level":30,"time":1717071450707,"pid":15868,"hostname":"PC224","msg":"User Registered Successfully."}
+{"level":40,"time":1717071483508,"pid":15868,"hostname":"PC224","msg":"Email or Username Is Already Exists."}
+{"level":30,"time":1717071630156,"pid":15308,"hostname":"PC224","msg":"User Login Successfully."}
+{"level":40,"time":1717071634161,"pid":15308,"hostname":"PC224","msg":"Invalid email or password."}
+{"level":40,"time":1717071639926,"pid":15308,"hostname":"PC224","msg":"Email or Username Is Already Exists."}
+{"level":40,"time":1717071643772,"pid":15308,"hostname":"PC224","msg":"Email or Username Is Already Exists."}
+{"level":40,"time":1717071655719,"pid":15308,"hostname":"PC224","msg":"Email or Username Is Already Exists."}
+{"level":30,"time":1717071663520,"pid":15308,"hostname":"PC224","msg":"User Registered Successfully."}
+{"level":40,"time":1717071699499,"pid":15308,"hostname":"PC224","msg":"Invalid email or password."}
+{"level":30,"time":1717071701742,"pid":15308,"hostname":"PC224","msg":"User Login Successfully."}
+{"level":40,"time":1717072849498,"pid":20816,"hostname":"PC224","msg":"User or Cart not found"}
+{"level":30,"time":1717072854292,"pid":20816,"hostname":"PC224","msg":"Listing All Products"}
+{"level":40,"time":1717072860467,"pid":20816,"hostname":"PC224","msg":"User or Cart not found"}
+{"level":30,"time":1717072875584,"pid":20816,"hostname":"PC224","msg":"Listing All Products"}
+{"level":40,"time":1717072902623,"pid":6256,"hostname":"PC224","msg":"User or Cart not found"}
+{"level":40,"time":1717072932810,"pid":7196,"hostname":"PC224","msg":"User or Cart not found"}
+{"level":40,"time":1717073006372,"pid":9528,"hostname":"PC224","msg":"User or Cart not found"}
+{"level":40,"time":1717073007110,"pid":9528,"hostname":"PC224","msg":"User or Cart not found"}
+{"level":30,"time":1717073010998,"pid":9528,"hostname":"PC224","msg":"User Login Successfully."}
+{"level":30,"time":1717073023170,"pid":9528,"hostname":"PC224","msg":"Listing All Products"}
+{"level":40,"time":1717073073354,"pid":21700,"hostname":"PC224","msg":"Invalid email or password."}
+{"level":40,"time":1717073079190,"pid":21700,"hostname":"PC224","msg":"Invalid email or password."}
+{"level":60,"time":1717073084186,"pid":21700,"hostname":"PC224","msg":"Internal Server Error login User TypeError [ERR_INVALID_ARG_TYPE]: The \"salt\" argument must be of type string or an instance of ArrayBuffer, Buffer, TypedArray, or DataView. Received undefined"}
+{"level":60,"time":1717073110555,"pid":21700,"hostname":"PC224","msg":"Internal Server Error forgotpass User ValidationError: salt: Path `salt` is required."}
+{"level":60,"time":1717073226146,"pid":5280,"hostname":"PC224","msg":"Internal Server Error forgotpass User ValidationError: salt: Path `salt` is required."}
+{"level":40,"time":1717073372904,"pid":21104,"hostname":"PC224","msg":"Email or Username Is Already Exists."}
+{"level":30,"time":1717073389473,"pid":21104,"hostname":"PC224","msg":"User Registered Successfully."}
+{"level":30,"time":1717073404062,"pid":21104,"hostname":"PC224","msg":"User Login Successfully."}
+{"level":30,"time":1717073414367,"pid":21104,"hostname":"PC224","msg":"An email has been sent to your address with further instructions."}
+{"level":30,"time":1717073436198,"pid":21104,"hostname":"PC224","msg":"User Login Successfully."}
+{"level":30,"time":1717073444067,"pid":21104,"hostname":"PC224","msg":"Listing All Products"}
+{"level":30,"time":1717073453009,"pid":21104,"hostname":"PC224","msg":"Listing All Products"}
+{"level":30,"time":1717073471170,"pid":21104,"hostname":"PC224","msg":"Listing All Products"}
+{"level":60,"time":1717128830015,"pid":21700,"hostname":"PC224","msg":"Internal Server Error Create User MongooseError: Operation `userModel.insertOne()` buffering timed out after 10000ms"}
+{"level":40,"time":1717129560770,"pid":6184,"hostname":"PC224","msg":"Email or Username Is Already Exists."}
+{"level":30,"time":1717129568777,"pid":6184,"hostname":"PC224","msg":"User Registered Successfully."}
+{"level":40,"time":1717131615614,"pid":6768,"hostname":"PC224","msg":"Invalid email or password."}
+{"level":40,"time":1717131619392,"pid":6768,"hostname":"PC224","msg":"Invalid email or password."}
+{"level":40,"time":1717131937030,"pid":10384,"hostname":"PC224","msg":"Email or Username Is Already Exists."}
+{"level":60,"time":1717131944450,"pid":10384,"hostname":"PC224","msg":"Internal Server Error Create User ValidationError: hash: Path `hash` is required."}
+{"level":30,"time":1717131990239,"pid":22292,"hostname":"PC224","msg":"User Registered Successfully."}
+{"level":30,"time":1717132012308,"pid":22292,"hostname":"PC224","msg":"User Login Successfully."}
+{"level":40,"time":1717132017766,"pid":22292,"hostname":"PC224","msg":"Invalid email or password."}
+{"level":40,"time":1717132022337,"pid":22292,"hostname":"PC224","msg":"Invalid email or password."}
+{"level":40,"time":1717132025853,"pid":22292,"hostname":"PC224","msg":"Invalid email or password."}
+{"level":30,"time":1717132037378,"pid":22292,"hostname":"PC224","msg":"An email has been sent to your address with further instructions."}
+{"level":30,"time":1717132183656,"pid":8688,"hostname":"PC224","msg":"User Registered Successfully."}
+{"level":30,"time":1717132195997,"pid":8688,"hostname":"PC224","msg":"User Login Successfully."}
+{"level":30,"time":1717132239497,"pid":8688,"hostname":"PC224","msg":"An email has been sent to your address with further instructions."}
+{"level":30,"time":1717132255778,"pid":8688,"hostname":"PC224","msg":"User Login Successfully."}
+{"level":40,"time":1717132293926,"pid":8688,"hostname":"PC224","msg":"Invalid email or password."}
+{"level":30,"time":1717132301477,"pid":8688,"hostname":"PC224","msg":"User Login Successfully."}
+{"level":30,"time":1717132333651,"pid":8688,"hostname":"PC224","msg":"Listing All Products"}
+{"level":30,"time":1717132369646,"pid":8688,"hostname":"PC224","msg":"Listing All Products"}
+{"level":30,"time":1717132385647,"pid":8688,"hostname":"PC224","msg":"Product removed from cart successfully."}
+{"level":40,"time":1717132387507,"pid":8688,"hostname":"PC224","msg":"Product Does not Exist in the cart."}
+{"level":30,"time":1717132392282,"pid":8688,"hostname":"PC224","msg":"Listing All Products"}
+{"level":30,"time":1717132398586,"pid":8688,"hostname":"PC224","msg":"Listing All Products"}
+{"level":30,"time":1717132451567,"pid":8688,"hostname":"PC224","msg":"Order Placed SuccessFully"}
+{"level":40,"time":1717133171729,"pid":22512,"hostname":"PC224","msg":"Email or Username Is Already Exists."}
+{"level":30,"time":1717133178982,"pid":22512,"hostname":"PC224","msg":"User Registered Successfully."}
+{"level":40,"time":1717133183285,"pid":22512,"hostname":"PC224","msg":"Email or Username Is Already Exists."}
+{"level":30,"time":1717133197631,"pid":22512,"hostname":"PC224","msg":"User Login Successfully."}
+{"level":40,"time":1717134932396,"pid":19540,"hostname":"PC224","msg":"Invalid email or password."}
+{"level":60,"time":1717134936224,"pid":19540,"hostname":"PC224","msg":"Internal Server Error Create User TypeError: Cannot read properties of undefined (reading 'generateVerificationToken')"}
+{"level":60,"time":1717135136115,"pid":13620,"hostname":"PC224","msg":"Internal Server Error Create User TypeError: Cannot read properties of undefined (reading 'generateVerificationToken')"}
+{"level":60,"time":1717135717493,"pid":17268,"hostname":"PC224","msg":"Internal Server Error Create User TypeError: Cannot read properties of undefined (reading 'generateVerificationToken')"}
+{"level":30,"time":1717135765247,"pid":22104,"hostname":"PC224","msg":"User Registered Successfully."}
+{"level":30,"time":1717136786253,"pid":13676,"hostname":"PC224","msg":"User Registered Successfully."}
+{"level":30,"time":1717136798331,"pid":13676,"hostname":"PC224","msg":"User Login Successfully."}
+{"level":30,"time":1717136812252,"pid":13676,"hostname":"PC224","msg":"An email has been sent to your address with further instructions."}
+{"level":30,"time":1717136857805,"pid":13676,"hostname":"PC224","msg":"An email has been sent to your address with further instructions."}
+{"level":30,"time":1717136875636,"pid":13676,"hostname":"PC224","msg":"User Login Successfully."}
+{"level":30,"time":1717136900809,"pid":13676,"hostname":"PC224","msg":"Listing All Products"}
+{"level":30,"time":1717136921232,"pid":13676,"hostname":"PC224","msg":"Listing All Products"}
+{"level":30,"time":1717136945026,"pid":13676,"hostname":"PC224","msg":"Product removed from cart successfully."}
+{"level":30,"time":1717136947870,"pid":13676,"hostname":"PC224","msg":"Listing All Products"}
+{"level":30,"time":1717137001557,"pid":13676,"hostname":"PC224","msg":"Order Placed SuccessFully"}
+{"level":30,"time":1717137021338,"pid":13676,"hostname":"PC224","msg":"Listing All Products"}
+{"level":40,"time":1717138220696,"pid":1216,"hostname":"PC224","msg":"Email or Username Is Already Exists."}
+{"level":30,"time":1717138229465,"pid":1216,"hostname":"PC224","msg":"User Registered Successfully."}
+{"level":30,"time":1717138352301,"pid":22292,"hostname":"PC224","msg":"User Registered Successfully."}
+{"level":30,"time":1717138369792,"pid":22292,"hostname":"PC224","msg":"User Login Successfully."}
+{"level":30,"time":1717138414514,"pid":22292,"hostname":"PC224","msg":"An email has been sent to your address with further instructions."}
+{"level":50,"time":1717146403329,"pid":17956,"hostname":"PC224","msg":"Please provide username, email, and password"}
+{"level":50,"time":1717147982168,"pid":1544,"hostname":"PC224","msg":"Please provide username, email, and password"}
+{"level":50,"time":1717148080092,"pid":16556,"hostname":"PC224","msg":"Please provide username, email, and password"}
+{"level":50,"time":1717148081172,"pid":16556,"hostname":"PC224","msg":"Please provide username, email, and password"}
+{"level":50,"time":1717148081691,"pid":16556,"hostname":"PC224","msg":"Please provide username, email, and password"}
+{"level":50,"time":1717148082162,"pid":16556,"hostname":"PC224","msg":"Please provide username, email, and password"}
+{"level":50,"time":1717148082599,"pid":16556,"hostname":"PC224","msg":"Please provide username, email, and password"}
+{"level":50,"time":1717148086784,"pid":16556,"hostname":"PC224","msg":"Please provide username, email, and password"}
+{"level":50,"time":1717148108090,"pid":16556,"hostname":"PC224","msg":"Please provide username, email, and password"}
+{"level":50,"time":1717148114716,"pid":16556,"hostname":"PC224","msg":"Please provide username, email, and password"}
